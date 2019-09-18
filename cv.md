@@ -1,5 +1,6 @@
 *Hello, this is my CV.*
 
+
 # Anna Volkova
 
 ## Contacts
@@ -9,7 +10,7 @@
 
 ## Summary 
 
-Since I work in IT companies as an English teacher, recently I've become interested in learning some programming languages. I found some courses in the Internet, and my friends-programmers are helping me to learn too. One of them adviced me to study in Epam, so I'm here and ready to learn new things. For now I enjoy working with HTML and CSS, and start learning JS. Since I speak English, Spanish and French, I'm sure I'll be successfull in programming languages too. I want to finish this course with you and hope to become a Juniour Dev right after the studies. 
+Since I work in IT companies as an English teacher, recently I've become interested in learning some programming languages. I found some courses in the Internet, and my friends-programmers are helping me to learn too. One of them adviced me to study in Epam, so I'm here and ready to learn new things. For now I enjoy working with HTML and CSS, and start learning JS. Since I speak English, Spanish and French, I'm sure I'll be successfull in programming languages too, because I figure that the processes of learning foreign and programming languages are quite similar. I want to finish this course with you and hope to become a Juniour Dev right after the studies. 
 
 ## Skills
 
@@ -35,5 +36,6 @@ Programming: I did the course of Yandex Praktikum and some courses of Edx (every
 
 My English level is Proficient.
 Here is [my certificate](https://www.efset.org/cert/nxvxdV). 
+
 
 *Thank you for your attention.*
