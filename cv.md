@@ -1,4 +1,4 @@
-Hello, this is my CV.
+*Hello, this is my CV.*
 
 # Anna Volkova
 
@@ -13,7 +13,7 @@ Since I work in IT companies as an English teacher, recently I've become interes
 
 ## Skills
 
-I did the course of Yandex Praktikum and some courses of Edx (everything connected with HTML, CSS and JS). 
+Completed courses for beginners in HTML, CSS and JS.
 
 ## Code examples
 
@@ -24,3 +24,16 @@ I did the course of Yandex Praktikum and some courses of Edx (everything connect
 ## Experience
 
 I have no working experience, only self-practice which I've described above.  
+
+## Education 
+
+Main: I have **Master in Linguistics** (English, French and Spanish). Also I leaned English in a Canadian college for one month during my studies at University. 
+
+Programming: I did the course of Yandex Praktikum and some courses of Edx (everything connected with HTML, CSS and JS). 
+
+## English Level
+
+My English level is Proficient.
+Here is [my certificate](https://www.efset.org/cert/nxvxdV). 
+
+*Thank you for your attention.*
