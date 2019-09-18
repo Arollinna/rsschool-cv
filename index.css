@@ -1,0 +1,44 @@
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+
+}
+header {
+    background-color: rgba(30, 50, 200, 0.4);
+    height: 100px;
+}
+.name {
+    float: left;
+}
+h1 {
+    padding: 30px;
+    margin: 0;
+}
+.contacts {
+    float: right;
+    padding-right: 30px;
+}
+.contact-head {
+    padding-left: -10px;
+}
+.contact-item {
+   margin: 5px;
+   text-align: left;
+}
+section {
+    text-align: justify;
+}
+h2 {
+    text-align: center;
+}
+p {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.footer {
+    text-align: center;
+    padding: 45px;
+    background-color: rgba(30, 50, 200, 0.4);
+    font-size: 20px;
+}
