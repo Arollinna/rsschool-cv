@@ -1,0 +1,65 @@
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+    border-left: rgba(30, 50, 200, 0.4) 1px solid;
+    border-right: rgba(30, 50, 200, 0.4) 1px solid;
+    box-shadow: 2px;
+}
+header {
+    background-color: rgba(30, 50, 200, 0.4);
+    height: 100px;
+}
+.name {
+    float: left;
+    background: linear-gradient(to right,#374bff,#e52e71);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    text-shadow: none;
+}
+h1 {
+    padding: 30px;
+    margin: 0;
+}
+.contacts {
+    float: right;
+    padding-right: 30px;
+}
+.contact-head {
+    padding-left: -10px;
+}
+.contact-item {
+    margin: 5px;
+    text-align: left;
+}
+.sections {
+    padding: 15px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+}
+section {
+    text-align: justify;
+}
+h2 {
+    text-align: center;
+    text-shadow: 2px 2px 3px rgba(30, 50, 200, 0.4);
+}
+a:visited {
+    color: hotpink;
+}
+.section-picture {
+    width: 200px;
+    float: left;
+}
+.summary h2 {
+    margin: 0; 
+}
+.photo {
+    border-radius: 50%;
+}
+.footer {
+    text-align: center;
+    padding: 45px;
+    background-color: rgba(30, 50, 200, 0.4);
+    font-size: 20px;
+}
