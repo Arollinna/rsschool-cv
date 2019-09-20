@@ -1,2 +1,2 @@
 # rsschool-cv
-[My CV](https://github.com/Arollinna/rsschool-cv/blob/gh-pages/cv.md)
+[My CV](https://arollinna.github.io/rsschool-cv/)
